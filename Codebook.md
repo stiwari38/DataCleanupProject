@@ -46,6 +46,8 @@ The complete list of variables of each feature vector is below in serial order:
 "tbodyaccmeanX","tbodyaccmeanY","tbodyaccmeanZ","tbodyaccstdX","tbodyaccstdY","tbodyaccstdZ","tgravityaccmeanX","tgravityaccmeanY","tgravityaccmeanY","tgravityaccstdX","tgravityaccstdY","tgravityaccstdZ","tbodyaccjerkmeanX","tbodyaccjerkmeanY","tbodyaccjerkmeanZ","tbodyaccjerkstdX","tbodyaccjerkstdY","tbodyaccjerkstdZ","tbodygyromeanX","tbodygyromeanY","tbodygyromeanZ","tbodygyrostdX","tbodygyrostdY","tbodygyrostdZ","tbodygyrojerkmeanX","tbodygyrojerkmeanY","tbodygyrojerkmeanZ","tbodygyrojerkstdX","tbodygyrojerkstdY","tbodygyrojerkstdZ","tbodyaccmagmean","tbodyaccmagstd","tgravityaccmagmean","tgravityaccmagstd","tbodyaccjerkmagmean","tbodyaccjerkmagstd",            "tbodygyromagmean","tbodygyromagstd","tbodygyrojerkmagmean","tbodygyrojerkmagstd","fbodyaccmeanX","fbodyaccmeanY","fbodyaccmeanZ","fbodyaccstdX","fbodyaccstdY","fbodyaccstdZ","fbodyaccjerkmeanX","fbodyaccjerkmeanY","fbodyaccjerkmeanZ","fbodyaccjerkstdX","fbodyaccjerkstdY","fbodyaccjerkstdZ","fbodygyromeanX","fbodygyromeanY","fbodygyromeanZ","fbodygyrostdX","fbodygyrostdY","fbodygyrostdZ","fbodyaccmagmean","fbodyaccmagstd","fbodybodyaccjerkmagmean","fbodybodyaccjerkmagstd","fbodybodygyromagmean","fbodybodygyromagstd","fbodybodygyrojerkmean","fbodybodygyrojerkstd","Subject","Activity"
 
 We will use below steps to reformat the data.
+=================
+
 
 1. Combine the test set with labels and subjects into one dataframe. 
      
